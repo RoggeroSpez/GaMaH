@@ -8,4 +8,4 @@ k.loadSprite("spritesheet", "./spritesheet.png", {
     }
 });
 
-//frames are 16x16 tile
+//frames are 16x16 tile use Tiled Program to help develope the maps
